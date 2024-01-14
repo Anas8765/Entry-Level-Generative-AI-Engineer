@@ -1,4 +1,4 @@
-# Entry-Level-Generative-AI-Engineer
+# Generative-AI-Engineer
 
 There are two notebooks: one is for summarizing the contents of any kind of book, and the other is for creating a personalized study plan for students. Both of these notebooks use AI to solve their respective tasks.
 
